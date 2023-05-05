@@ -1,11 +1,12 @@
 /* ==UserStyle==
-@name           Poe Style Enhancement: Font Modification, Wide Screen Adaptation, and Overall Element Scaling
-@name:zh-CN   Poe样式优化：Poe 字体修改、宽屏自适应、整体元素缩放
-@namespace      github.com/openstyles/stylus
-@version        0.2.0
-@description    Font Modification, Wide Screen Adaptation, and Overall Element Scaling
+@name                Poe Style Enhancement: Font Modification, Wide Screen Adaptation, and Overall Element Scaling
+@name:zh-CN          Poe样式优化：Poe 字体修改、宽屏自适应、整体元素缩放
+@namespace           github.com/openstyles/stylus
+@version             0.2.0
+@description         Font Modification, Wide Screen Adaptation, and Overall Element Scaling
 @description:zh-CN   字体修改、宽屏自适应、整体元素缩放
-@author         mercutiojohn
+@license             MIT
+@author              mercutiojohn
 ==/UserStyle== */
 @-moz-document url-prefix("https://poe.com/") {
     @font-face {
