@@ -1,17 +1,17 @@
 // ==UserScript==
-// @name         Replace Poe Prompt Input with Monaco Editor
-// @name:zh-CN   把Poe聊天框变成Monaco Editor
-// @namespace    your-namespace
-// @namespace    http://tampermonkey.net/
-// @version      0.2.0
-// @description  1.Replace Poe chat box with Monaco Editor; 2.Allow adjusting input box height;3.Change Enter Event to Ctrl+Enter.
-// @description:zh-CN  1.把Poe聊天框变成Monaco Editor; 2.可调整输入框高度; 3. 回车改为Ctrl + Enter
-// @match        *://poe.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=poe.com
-// @require      https://greasyfork.org/scripts/465571-poe-style-enhancement-font-modification-wide-screen-adaptation-and-overall-element-scaling/code/Poe%20Style%20Enhancement:%20Font%20Modification,%20Wide%20Screen%20Adaptation,%20and%20Overall%20Element%20Scaling.user.js
-// @grant        none
-// @license      MIT
-// @author       mercutiojohn
+// @name                Replace Poe Prompt Input with Monaco Editor
+// @name:zh-CN          把Poe聊天框变成Monaco Editor
+// @namespace           your-namespace
+// @namespace           http://tampermonkey.net/
+// @version             0.2.0
+// @description         1.Replace Poe chat box with Monaco Editor; 2.Allow adjusting input box height;3.Change Enter Event to Ctrl+Enter.
+// @description:zh-CN   1.把Poe聊天框变成Monaco Editor; 2.可调整输入框高度; 3. 回车改为Ctrl + Enter
+// @match               *://poe.com/*
+// @icon                https://www.google.com/s2/favicons?sz=64&domain=poe.com
+// @require             https://greasyfork.org/scripts/465571-poe-style-enhancement-font-modification-wide-screen-adaptation-and-overall-element-scaling/code/Poe%20Style%20Enhancement:%20Font%20Modification,%20Wide%20Screen%20Adaptation,%20and%20Overall%20Element%20Scaling.user.js
+// @grant               none
+// @license             MIT
+// @author              mercutiojohn
 // ==/UserScript==
 
 (function() {
